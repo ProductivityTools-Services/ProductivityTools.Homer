@@ -93,4 +93,14 @@ services:
         keywords: "self hosted reddit"
         url: "http://photos.productivitytools.top:7010/"
         target: "_blank" # optional html a tag target attribute
+  - name: "Google App Scripts"
+    icon: "fas fa-cloud"
+    items:
+      - name: "Newsweek"
+        logo: "assets/icons/Newsweek.png"
+        subtitle: ""
+        tag: "app"
+        keywords: "self hosted reddit"
+        url: "https://script.google.com/macros/s/AKfycby78y4w07vl83rXG7QOPqH0XSIkWLntggojsoj3tljO9f0RrJ0SVEl3Y9HIy9TFJP6w/exec"
+        target: "_blank" # optional html a tag target attribute
       
