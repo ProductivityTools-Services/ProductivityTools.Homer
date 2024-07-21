@@ -93,6 +93,13 @@ services:
         keywords: "self hosted reddit"
         url: "http://photos.productivitytools.top:7010/"
         target: "_blank" # optional html a tag target attribute
+      - name: "Passbolt"
+        logo: "assets/icons/Passbolt.png"
+        subtitle: ""
+        tag: "app"
+        keywords: "self hosted reddit"
+        url: "https://passbolt.productivitytools.top:443/"
+        target: "_blank" # optional html a tag target attribute
   - name: "Google App Scripts"
     icon: "fas fa-cloud"
     items:
