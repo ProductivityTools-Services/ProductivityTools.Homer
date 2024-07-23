@@ -83,6 +83,11 @@ services:
         subtitle: ""
         tag: "pt.app"
         url: "https://meetingsweb.z13.web.core.windows.net/"
+      - name: "Techbricks"
+        logo: "assets/icons/TechBricks.png"
+        subtitle: ""
+        tag: "pt.app"
+        url: "https://pttechbricksprod.web.app/"        
   - name: "Applications"
     icon: "fas fa-cloud"
     items:
