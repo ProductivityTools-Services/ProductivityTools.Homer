@@ -87,7 +87,12 @@ services:
         logo: "assets/icons/TechBricks.png"
         subtitle: ""
         tag: "pt.app"
-        url: "https://pttechbricksprod.web.app/"        
+        url: "https://pttechbricksprod.web.app/"
+        - name: "Transfers"
+        logo: "assets/icons/TechBricks.png"
+        subtitle: ""
+        tag: "pt.app"
+        url: "https://transfersweb.z16.web.core.windows.net/"
   - name: "Applications"
     icon: "fas fa-cloud"
     items:
