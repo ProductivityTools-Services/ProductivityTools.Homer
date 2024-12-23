@@ -93,6 +93,11 @@ services:
         subtitle: ""
         tag: "pt.app"
         url: "https://transfersweb.z16.web.core.windows.net/"
+        - name: "Transfers"
+        logo: "assets/icons/TechBricks.png"
+        subtitle: ""
+        tag: "pt.app"
+        url: "https://ptplacesprod.web.app/Login"
   - name: "Applications"
     icon: "fas fa-cloud"
     items:
