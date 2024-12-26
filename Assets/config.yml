@@ -98,6 +98,11 @@ services:
         subtitle: ""
         tag: "pt.places"
         url: "https://ptplacesprod.web.app/"
+      - name: "Transfers"
+        logo: "assets/icons/TechBricks.png"
+        subtitle: ""
+        tag: "pt.app"
+        url: "https://ptplacesprod.web.app/Login"
   - name: "Applications"
     icon: "fas fa-cloud"
     items:
