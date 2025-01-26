@@ -102,7 +102,7 @@ services:
         logo: "assets/icons/Expenses.png"
         subtitle: ""
         tag: "pt.app"
-        url: "hhttps://agreeable-ocean-0d0923a10.4.azurestaticapps.net/"
+        url: "https://agreeable-ocean-0d0923a10.4.azurestaticapps.net/"
   - name: "Applications"
     icon: "fas fa-cloud"
     items:
