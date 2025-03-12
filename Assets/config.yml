@@ -103,6 +103,11 @@ services:
         subtitle: ""
         tag: "pt.app"
         url: "https://agreeable-ocean-0d0923a10.4.azurestaticapps.net/"
+      - name: "Trips"
+        logo: "assets/icons/Trips.png"
+        subtitle: ""
+        tag: "pt.app"
+        url: "https://tripsweb.z13.web.core.windows.net/"
   - name: "Applications"
     icon: "fas fa-cloud"
     items:
