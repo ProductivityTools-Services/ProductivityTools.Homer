@@ -102,12 +102,17 @@ services:
         logo: "assets/icons/Expenses.png"
         subtitle: ""
         tag: "pt.app"
-        url: "https://ptplacesprod.web.app/Login"
+        url: "https://agreeable-ocean-0d0923a10.4.azurestaticapps.net/"
       - name: "Salaries"
         logo: "assets/icons/Salaries.png"
         subtitle: ""
         tag: "pt.app"
-        url: "https://salariesweb.z35.web.core.windows.net/"
+        url: "https://salariesweb.z35.web.core.windows.net/"  
+      - name: "Trips"
+        logo: "assets/icons/Trips.png"
+        subtitle: ""
+        tag: "pt.app"
+        url: "https://tripsweb.z13.web.core.windows.net/"
   - name: "Applications"
     icon: "fas fa-cloud"
     items:
@@ -135,4 +140,39 @@ services:
         keywords: "self hosted reddit"
         url: "https://script.google.com/macros/s/AKfycby78y4w07vl83rXG7QOPqH0XSIkWLntggojsoj3tljO9f0RrJ0SVEl3Y9HIy9TFJP6w/exec"
         target: "_blank" # optional html a tag target attribute
+      - name: "Famlily Expenses - mbank"
+        logo: "assets/icons/Newsweek.png"
+        subtitle: "Import mbank transactions, fill categories, accounts, fill allegro notes"
+        tag: "app"
+        keywords: "self hosted reddit"
+        url: "https://script.google.com/macros/s/AKfycbxHCnd8Z3QNs5pU_dYbODGm7omZPHjtOj1D1Z3jJtF0XJhFNHb9QnclnmXA7901Jb08/exec"
+        target: "_blank" # optional html a tag target attribute
+      - name: "Famlily Expenses - move transactions"
+        logo: "assets/icons/Newsweek.png"
+        subtitle: "Import mbank transactions, fill categories, accounts, fill allegro notes"
+        tag: "app"
+        keywords: "self hosted reddit"
+        url: "https://script.google.com/macros/s/AKfycbw5tn-jaP9tSYgz703VTDQ8B1eIrDWjEjwAOnKXxO5mkljnf1sVq9z0cY26gRBMqUIswQ/exec"
+        target: "_blank" # optional html a tag target attribute
+
+
       
+  - name: "Sheets"
+    icon: "fas fa-cloud"
+    items:
+      - name: "PT.FamilyExpenses.mBank"
+        logo: "assets/icons/Newsweek.png"
+        subtitle: ""
+        tag: "app"
+        keywords: "self hosted reddit"
+        url: "https://docs.google.com/spreadsheets/d/1XJAduyj-wL-kVE12Ib93htKbiEyTXuzYOG7j4BedrOA/edit?gid=0#gid=0"
+        target: "_blank" # optional html a tag target attribute
+      - name: "PT.FamilyExpenses.AllTransactions"
+        logo: "assets/icons/Newsweek.png"
+        subtitle: ""
+        tag: "app"
+        keywords: "self hosted reddit"
+        url: "https://docs.google.com/spreadsheets/d/1Exdtvg5WLRB2kcT7X_isY_a_0hy7lZidmzW-HBRkgV0/edit?gid=659013003#gid=659013003"
+        target: "_blank" # optional html a tag target attribute
+
+
