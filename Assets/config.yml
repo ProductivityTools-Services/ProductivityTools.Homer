@@ -103,6 +103,11 @@ services:
         subtitle: ""
         tag: "pt.app"
         url: "https://ptplacesprod.web.app/Login"
+      - name: "Salaries"
+        logo: "assets/icons/Salaries.png"
+        subtitle: ""
+        tag: "pt.app"
+        url: "https://salariesweb.z35.web.core.windows.net/"
   - name: "Applications"
     icon: "fas fa-cloud"
     items:
