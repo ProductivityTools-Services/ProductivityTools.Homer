@@ -113,6 +113,11 @@ services:
         subtitle: ""
         tag: "pt.app"
         url: "https://tripsweb.z13.web.core.windows.net/"
+      - name: "FileSharing"
+        logo: "assets/icons/Trips.png"
+        subtitle: ""
+        tag: "pt.app"
+        url: "https://ptfilesharing-45459715128.us-central1.run.app/"        
   - name: "Applications"
     icon: "fas fa-cloud"
     items:
