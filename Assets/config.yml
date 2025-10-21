@@ -122,7 +122,12 @@ services:
         logo: "assets/icons/Trips.png"
         subtitle: ""
         tag: "pt.app"
-        url: "https://ptservicestatus-309299231472.us-central1.run.app/"        
+        url: "https://ptservicestatus-309299231472.us-central1.run.app/"       
+      - name: "Habits"
+        logo: "assets/icons/Habits.png"
+        subtitle: ""
+        tag: "pt.app"
+        url: "https://ptprojectsweb.web.app/habits/"       
 
   - name: "Applications"
     icon: "fas fa-cloud"
