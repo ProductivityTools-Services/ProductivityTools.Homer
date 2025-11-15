@@ -127,7 +127,7 @@ services:
         logo: "assets/icons/Habits.png"
         subtitle: ""
         tag: "pt.app"
-        url: "https://ptprojectsweb.web.app/habits/"       
+        url: "https://pt-habits.web.app/"       
 
   - name: "Applications"
     icon: "fas fa-cloud"
