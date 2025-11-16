@@ -44,8 +44,8 @@ pipeline {
         stage('Copy the page') {
             steps {
                 script{
-                    def sourceDir='/var/lib/jenkins/workspace/ProductivityTools.Homer'
-                    def destinationDir='/srv/jenkins/pt.googlecloudnetworking'
+                    def sourceDir='/var/lib/jenkins/workspace/PT.Homer'
+                    def destinationDir='/srv/jenkins/pt.homer'
                     //sh "mkdir -p ${destinationDir}"
 
                     sh "rsync -av --exclude='.git/' ${sourceDir}/ ${destinationDir}"
