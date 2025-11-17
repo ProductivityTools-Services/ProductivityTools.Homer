@@ -129,7 +129,7 @@ services:
         tag: "pt.app"
         url: "https://pt-habits.web.app/"  
       - name: "PDF Tools"
-        logo: "assets/icons/Habits.png"
+        logo: "assets/icons/PDFTools.png"
         subtitle: ""
         tag: "pt.app"
         url: "https://pt-pdf-tools.web.app/"       
@@ -173,10 +173,7 @@ services:
         tag: "app"
         keywords: "self hosted reddit"
         url: "https://script.google.com/macros/s/AKfycbw5tn-jaP9tSYgz703VTDQ8B1eIrDWjEjwAOnKXxO5mkljnf1sVq9z0cY26gRBMqUIswQ/exec"
-        target: "_blank" # optional html a tag target attribute
-
-
-      
+        target: "_blank" # optional html a tag target attribute  
   - name: "Sheets"
     icon: "fas fa-cloud"
     items:
