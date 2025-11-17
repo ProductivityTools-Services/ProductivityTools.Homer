@@ -127,7 +127,12 @@ services:
         logo: "assets/icons/Habits.png"
         subtitle: ""
         tag: "pt.app"
-        url: "https://pt-habits.web.app/"       
+        url: "https://pt-habits.web.app/"  
+      - name: "PDF Tools"
+        logo: "assets/icons/Habits.png"
+        subtitle: ""
+        tag: "pt.app"
+        url: "https://pt-pdf-tools.web.app/"       
 
   - name: "Applications"
     icon: "fas fa-cloud"
