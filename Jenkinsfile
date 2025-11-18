@@ -55,6 +55,15 @@ pipeline {
             }
         }  
 
+        stage('start docker') {
+            steps {
+                script {
+                   
+                    sh 'docker compose up'
+                }
+            }
+        }
+
 
     }
 }
