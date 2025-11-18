@@ -133,7 +133,6 @@ services:
         subtitle: ""
         tag: "pt.app"
         url: "https://pt-pdf-tools.web.app/"       
-
   - name: "Applications"
     icon: "fas fa-cloud"
     items:
