@@ -12,4 +12,4 @@ services:
       - 7000:8080
     user: 1000:1000 # default
     environment:
-      - INIT_ASSETS=1 # default
+      - INIT_ASSETS=0 # default
