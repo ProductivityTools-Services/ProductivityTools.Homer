@@ -119,7 +119,7 @@ services:
         tag: "pt.app"
         url: "https://ptfilesharing-45459715128.us-central1.run.app/"        
       - name: "Service status"
-        logo: "assets/icons/Trips.png"
+        logo: "assets/icons/ServiceStatus.png"
         subtitle: ""
         tag: "pt.app"
         url: "https://ptservicestatus-309299231472.us-central1.run.app/"       
