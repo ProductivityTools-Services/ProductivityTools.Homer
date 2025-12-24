@@ -156,6 +156,13 @@ services:
         keywords: "self hosted reddit"
         url: "https://passbolt.productivitytools.top:443/"
         target: "_blank" # optional html a tag target attribute
+      - name: "Jellyfin"
+        logo: "assets/icons/Jellyfin.png"
+        subtitle: ""
+        tag: "app"
+        keywords: "self hosted reddit"
+        url: "https://jellyfin.productivitytools.top/"
+        target: "_blank" # optional html a tag target attribute
   - name: "Sheets"
     icon: "fas fa-cloud"
     items:
