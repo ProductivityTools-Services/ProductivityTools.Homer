@@ -44,9 +44,9 @@ colors:
 message:
   #url: https://b4bz.io
   style: "is-dark" # See https://bulma.io/documentation/components/message/#colors for styling options.
-  title: "Demo !"
+  title: "Productivitytools Lanuncher!"
   icon: "fa fa-grin"
-  content: "This is a dummy homepage demo. <br /> Find more information on <a href='https://github.com/bastienwirtz/homer'>github.com/bastienwirtz/homer</a>"
+  content: "This is the launcher for the ProductivityTools applications<br /> Find more information on <a href='https://github.com/pwujczyk'>github</a>"
 
 # Optional navbar
 # links: [] # Allows for navbar (dark mode, layout, and search) without any links
@@ -125,7 +125,7 @@ services:
         tag: "pt.app"
         url: "https://pttechbricksprod.web.app/"
       - name: "FileSharing"
-        logo: "assets/icons/Trips.png"
+        logo: "assets/icons/FileSharing.png"
         subtitle: ""
         tag: "pt.app"
         url: "https://ptfilesharing-45459715128.us-central1.run.app/"        
