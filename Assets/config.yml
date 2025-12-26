@@ -167,17 +167,17 @@ services:
     icon: "fas fa-cloud"
     items:
       - name: "PT.FamilyExpenses.mBank"
-        logo: "assets/icons/Newsweek.png"
+        logo: "assets/icons/GoogleSheets.png"
         subtitle: ""
         tag: "app"
-        keywords: "self hosted reddit"
+        keywords: "Money"
         url: "https://docs.google.com/spreadsheets/d/1XJAduyj-wL-kVE12Ib93htKbiEyTXuzYOG7j4BedrOA/edit?gid=0#gid=0"
         target: "_blank" # optional html a tag target attribute
       - name: "PT.FamilyExpenses.AllTransactions"
-        logo: "assets/icons/Newsweek.png"
+        logo: "assets/icons/GoogleSheets.png"
         subtitle: ""
         tag: "app"
-        keywords: "self hosted reddit"
+        keywords: "Money"
         url: "https://docs.google.com/spreadsheets/d/1Exdtvg5WLRB2kcT7X_isY_a_0hy7lZidmzW-HBRkgV0/edit?gid=659013003#gid=659013003"
         target: "_blank" # optional html a tag target attribute
 
