@@ -76,7 +76,7 @@ services:
         subtitle: ""
         tag: "pt.app"
         keywords: ""
-        url: "https://task3web.z13.web.core.windows.net/"
+        url: "https://pt-tasks.web.app/"
         target: "_blank" # optional html a tag target attribute
       - name: "Journal"
         logo: "assets/icons/Jorunal.png"
