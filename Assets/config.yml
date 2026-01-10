@@ -149,6 +149,13 @@ services:
         keywords: "self hosted reddit"
         url: "http://photos.productivitytools.top:7010/"
         target: "_blank" # optional html a tag target attribute
+      - name: "Nextcloud"
+        logo: "assets/icons/Nextcloud.png"
+        subtitle: ""
+        tag: "app"
+        keywords: "self hosted reddit"
+        url: "https://nextcloud.productivitytools.top/"
+        target: "_blank" # optional html a tag target attribute
       - name: "Passbolt"
         logo: "assets/icons/Passbolt.png"
         subtitle: ""
