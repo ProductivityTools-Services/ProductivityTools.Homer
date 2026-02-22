@@ -138,7 +138,12 @@ services:
         logo: "assets/icons/PDFTools.png"
         subtitle: ""
         tag: "pt.app"
-        url: "https://pt-pdf-tools.web.app/"      
+        url: "https://pt-pdf-tools.web.app/"  
+      - name: "Send Task3 report"
+        logo: "assets/icons/TaskListReport.png"
+        subtitle: ""
+        tag: "pt.app" 
+        url: "https://pt-task3-reporting-http-93484780890.europe-west1.run.app/" 
   - name: "Applications"
     icon: "fas fa-cloud"
     items:
