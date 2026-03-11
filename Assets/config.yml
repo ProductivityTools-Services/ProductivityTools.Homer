@@ -190,6 +190,11 @@ services:
         keywords: "GCP"
         url: "https://networking.productivitytools.top/"
         target: "_blank" # optional html a tag target attribute
+        quick:
+          - name: "firebase"
+            url: "https://pt-networking.web.app/"
+            icon: "fa-solid fa-arrow-up-right-from-square"
+            target: "_blank"
   - name: "Sheets"
     icon: "fas fa-cloud"
     items:
