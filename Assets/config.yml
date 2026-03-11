@@ -183,7 +183,7 @@ services:
   - name: "Pages"
     icon: "fas fa-cloud"
     items:
-      - name: "GCP - Networking"
+      - name: "GCP - Networking1"
         logo: "assets/icons/googlecloudnetworking.png"
         subtitle: ""
         tag: "page"
