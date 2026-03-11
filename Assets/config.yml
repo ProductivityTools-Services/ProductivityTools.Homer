@@ -195,7 +195,7 @@ services:
             url: "https://pt-networking.web.app/"
             icon: "fa-solid fa-arrow-up-right-from-square"
             target: "_blank"
-     - name: "Dashboard icons"
+      - name: "Dashboard icons"
         icon: "fa-solid fa-icons"
         tag: "setup"
         url: ""
