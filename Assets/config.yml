@@ -188,7 +188,7 @@ services:
         subtitle: ""
         tag: "page"
         keywords: "GCP"
-        url: "https://pt-networking.productivitytools.top/"
+        url: "https://networking.productivitytools.top/"
         target: "_blank" # optional html a tag target attribute
   - name: "Sheets"
     icon: "fas fa-cloud"
