@@ -76,8 +76,13 @@ services:
         subtitle: ""
         tag: "pt.app"
         keywords: ""
-        url: "https://pt-tasks.web.app/"
+        url: "https://tasks.productivitytools.top/"
         target: "_blank" # optional html a tag target attribute
+        quick:
+          - name: "firebase"
+            url: "https://pt-tasks.web.app/"
+            icon: "fa-solid fa-arrow-up-right-from-square"
+            target: "_blank"
       - name: "Journal"
         logo: "assets/icons/Jorunal.png"
         subtitle: ""
@@ -183,7 +188,7 @@ services:
   - name: "Pages"
     icon: "fas fa-cloud"
     items:
-      - name: "GCP - Networking1"
+      - name: "GCP - Networking"
         logo: "assets/icons/googlecloudnetworking.png"
         subtitle: ""
         tag: "page"

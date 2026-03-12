@@ -43,7 +43,7 @@ pipeline {
             }
         }
 
-        stage('Copy the page') {
+        stage('Copy the page') {srv
             steps {
                 script{
                     def sourceDir='/var/lib/jenkins/workspace/PT.Homer'
