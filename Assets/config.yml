@@ -93,7 +93,7 @@ services:
             url: "https://pt-journal-temp.web.app/"
             icon: "fa-solid fa-arrow-up-right-from-square"
             target: "_blank"
-          - name: "old"
+          - name: "old-old"
             url: "https://meetingsweb.z13.web.core.windows.net/"
             icon: "fa-solid fa-arrow-up-right-from-square"
             target: "_blank"
@@ -121,7 +121,7 @@ services:
         logo: "assets/icons/Places.png"
         subtitle: ""
         tag: "pt.places"
-        url: "https://place.productivitytools.top/"  
+        url: "https://places.productivitytools.top/"  
         quick:
             - name: "firebase"
               url: "https://pt-places.web.app/"
