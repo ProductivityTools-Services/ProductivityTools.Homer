@@ -127,6 +127,10 @@ services:
               url: "https://pt-places.web.app/"
               icon: "fa-solid fa-arrow-up-right-from-square"
               target: "_blank"
+            - name: "ols-old"
+              url: "https://ptplacesprod.web.app/Login"
+              icon: "fa-solid fa-arrow-up-right-from-square"
+              target: "_blank"
   - name: "Money"
     icon: "fas fa-cloud"
     items:
