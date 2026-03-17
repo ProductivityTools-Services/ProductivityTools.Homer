@@ -134,7 +134,7 @@ services:
         logo: "assets/icons/Transfers.png"
         subtitle: ""
         tag: "pt.app"
-        url: "httpss://transfers.productivitytools.top"
+        url: "https://transfers.productivitytools.top"
         quick:
             - name: "firebase"
               url: "https://pt-transfers.web.app/"
@@ -148,7 +148,7 @@ services:
         logo: "assets/icons/Expenses.png"
         subtitle: ""
         tag: "pt.app"
-        url: "expenses.productivitytools.top"
+        url: "https://expenses.productivitytools.top"
         quick:
             - name: "firebase"
               url: "https://pt-expenses.web.app/"
@@ -162,7 +162,7 @@ services:
         logo: "assets/icons/Trips.png"
         subtitle: ""
         tag: "pt.app"
-        url: "trips.productivitytools.top" 
+        url: "https://trips.productivitytools.top" 
         quick:
             - name: "firebase"
               url: "https://pt-trips.web.app/"
@@ -176,7 +176,7 @@ services:
         logo: "assets/icons/Salaries.png"
         subtitle: ""
         tag: "pt.app"
-        url: "salaries.productivitytools.top"  
+        url: "https://salaries.productivitytools.top"  
         quick:
             - name: "firebase"
               url: "https://pt-salaries.web.app/"
@@ -193,7 +193,7 @@ services:
         logo: "assets/icons/TechBricks.png"
         subtitle: ""
         tag: "pt.app"
-        url: "techbricks.productivitytools.top"
+        url: "https://techbricks.productivitytools.top"
         quick:
             - name: "firebase"
               url: "https://pt-techbricks.web.app/"
@@ -207,7 +207,7 @@ services:
         logo: "assets/icons/FileSharing.png"
         subtitle: ""
         tag: "pt.app"
-        url: "filesharing.productivitytools.top"  
+        url: "https://filesharing.productivitytools.top"  
         quick:
             - name: "firebase"
               url: "https://pt-filesharing.web.app/"
@@ -221,7 +221,7 @@ services:
         logo: "assets/icons/ServiceStatus.png"
         subtitle: ""
         tag: "pt.app"
-        url: "servicestatus.productivitytools.top" 
+        url: "https://servicestatus.productivitytools.top" 
         quick:
             - name: "firebase"
               url: "https://pt-servicestatus.web.app/"
@@ -235,7 +235,7 @@ services:
         logo: "assets/icons/PDFTools.png"
         subtitle: ""
         tag: "pt.app"
-        url: "pdf-tools.productivitytools.top"  
+        url: "https://pdf-tools.productivitytools.top"  
         quick:
             - name: "firebase"
               url: "https://pt-pdf-tools.web.app/"
