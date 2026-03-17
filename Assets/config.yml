@@ -134,7 +134,7 @@ services:
         logo: "assets/icons/Transfers.png"
         subtitle: ""
         tag: "pt.app"
-        url: "transfers.productivitytools.top"
+        url: "httpss://transfers.productivitytools.top"
         quick:
             - name: "firebase"
               url: "https://pt-transfers.web.app/"
