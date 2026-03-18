@@ -155,7 +155,7 @@ services:
         url: "https://expenses.productivitytools.top"
         quick:
             - name: "firebase"
-              url: "https://pt-expenses.web.app/"
+              url: "https://pt-expenses-page.web.app/"
               icon: "fa-solid fa-arrow-up-right-from-square"
               target: "_blank"   
             - name: "ols-old"
