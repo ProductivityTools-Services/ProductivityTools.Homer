@@ -286,7 +286,7 @@ services:
         url: "https://jellyfin.productivitytools.top/"
         target: "_blank" # optional html a tag target attribute
       - name: "Guacamole"
-        logo: "assets/icons/Guacamole.png"
+        logo: "assets/icons/guacamole.png"
         subtitle: ""
         tag: "app"
         keywords: "self hosted reddit"
