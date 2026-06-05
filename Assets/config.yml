@@ -310,7 +310,7 @@ services:
   - name: "Sheets"
     icon: "fas fa-cloud"
     items:
-      - name: "PT.FamilyExpenses.mBank"
+      - name: "PT.FamilyExpenses.mBankX"
         logo: "assets/icons/GoogleSheets.png"
         subtitle: ""
         tag: "sheet"
