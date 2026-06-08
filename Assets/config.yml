@@ -250,7 +250,7 @@ services:
               icon: "fa-solid fa-arrow-up-right-from-square"
               target: "_blank" 
       - name: "Waypoints"
-        logo: "assets/icons/PDFTools.png"
+        logo: "assets/icons/waypoints.png"
         subtitle: ""
         tag: "pt.app"
         url: "https://waypoints.productivitytools.top"  
