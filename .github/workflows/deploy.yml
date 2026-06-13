@@ -1,0 +1,35 @@
+name: Deploy Homer
+
+on:
+  push:
+    branches:
+      - main
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
+
+jobs:
+  deploy:
+    name: Deploy to Server
+    runs-on: self-hosted
+
+    steps:
+      - name: Hello
+        run: echo "Hello!"
+
+      - name: Identify User
+        run: |
+          echo "Checking which user GitHub Actions runner executes commands as..."
+          echo "Username (whoami):"
+          whoami
+          echo "User details (id):"
+          id
+          echo "Identification finished."
+
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Copy the page
+        run: |
+          destinationDir="/srv/jenkins/pt.homer"
+          rsync -av --exclude='.git/' "${{ github.workspace }}/" "$destinationDir"
