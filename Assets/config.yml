@@ -197,6 +197,16 @@ services:
               url: "https://salariesweb.z35.web.core.windows.net/"
               icon: "fa-solid fa-arrow-up-right-from-square"
               target: "_blank" 
+      - name: "Spendings"
+        logo: "assets/icons/Spendings.png?v=2"
+        subtitle: ""
+        tag: "pt.app"
+        url: "https://spendings.productivitytools.top"
+        quick:
+            - name: "firebase"
+              url: "https://pt-spendings.web.app/"
+              icon: "fa-solid fa-arrow-up-right-from-square"
+              target: "_blank"
   - name: "Tools"
     icon: "fas fa-cloud"
     items:
