@@ -278,6 +278,16 @@ services:
         subtitle: ""
         tag: "pt.app" 
         url: "https://pt-task3-reporting-http-93484780890.europe-west1.run.app/" 
+      - name: "HostBook"
+        logo: "assets/icons/HostBook.png?v=2"
+        subtitle: ""
+        tag: "pt.app"
+        url: "https://hostbook.productivitytools.top"
+        quick:
+            - name: "firebase"
+              url: "https://pt-hostbook.web.app/"
+              icon: "fa-solid fa-arrow-up-right-from-square"
+              target: "_blank"
   - name: "Applications"
     icon: "fas fa-cloud"
     items:
