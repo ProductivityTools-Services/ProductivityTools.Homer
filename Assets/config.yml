@@ -137,6 +137,16 @@ services:
               url: "https://pts-fitness.web.app/"
               icon: "fa-solid fa-arrow-up-right-from-square"
               target: "_blank"
+      - name: "Fitness Catalog"
+        logo: "assets/icons/Fitness.png?v=2"
+        subtitle: "Exercise Catalogue"
+        tag: "pt.app"
+        url: "https://pt-fitness-catalog.web.app/"
+        quick:
+            - name: "firebase"
+              url: "https://pt-fitness-catalog.web.app/"
+              icon: "fa-solid fa-arrow-up-right-from-square"
+              target: "_blank"
 
   - name: "Money"
     icon: "fas fa-cloud"
